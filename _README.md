@@ -1,4 +1,11 @@
-Circular knitic
+Original design (c) 2014 Varvara Guljajeva & Mar Canet. See below for original Readme text.
+
+Design changes/suggestions offered by Assistant Professors Taylor
+Hokanson and Dieter Kirkwood, who are currently working on a build at
+Columbia College Chicago. For more info on this and related machine
+knitting projects, see
+http://taylorhokanson.com/category/research/hardware/machine-knitting/ 
+
 ===============
 
 Circular Knitic, an open hardware knitting machine. 
@@ -12,4 +19,4 @@ For laser cutting we have used 5mm and 6mm plexiglass. Use 6mm one for the gears
 We are doing workshops to build one or more machines in one day, if you are interested hosting a workshop please let us know:
 varvarag@gmail.com  or mar.canet@gmail.com See photos from WeMake Milano Makerspace workshop done in February 2015: https://www.flickr.com/photos/mcanet/sets/72157650274803049/
 
-Copyright (c) 2014 Varvara Guljajeva & Mar Canet 
+Copyright (c) 2014 Varvara Guljajeva & Mar Canet
