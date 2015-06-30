@@ -4,7 +4,9 @@ Design changes/suggestions offered by Assistant Professors Taylor
 Hokanson and Dieter Kirkwood, who are currently working on a build at
 Columbia College Chicago. For more info on this and related machine
 knitting projects, see
-http://taylorhokanson.com/category/research/hardware/machine-knitting/ 
+http://taylorhokanson.com/category/research/hardware/machine-knitting/
+
+All files marked WIP = work in progress (unfinished) 
 
 ===============
 
