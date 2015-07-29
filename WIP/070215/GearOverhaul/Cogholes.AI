@@ -1,0 +1,98 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (Cogholes.AI)
+%%BoundingBox: -466 -405 1236 730
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 0 0 0 0
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 0 0 0 Lb
+(Default) Ln
+0 A
+0 R
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+185.3999 512.2404 m
+184.2214 508.5083 180.2404 506.4382 176.5083 507.6167 c
+172.7761 508.7953 170.7060 512.7762 171.8845 516.5084 c
+173.0631 520.2405 177.0440 522.3106 180.7762 521.1321 c
+184.5084 519.9535 186.5785 515.9726 185.3999 512.2404 C
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+1119.8084 512.2404 m
+1120.9870 508.5083 1124.9679 506.4382 1128.7001 507.6167 c
+1132.4323 508.7953 1134.5024 512.7762 1133.3238 516.5084 c
+1132.1452 520.2405 1128.1643 522.3106 1124.4322 521.1321 c
+1120.7000 519.9535 1118.6299 515.9726 1119.8084 512.2404 C
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+1119.8084 -190.5332 m
+1120.9870 -186.8010 1124.9679 -184.7309 1128.7001 -185.9095 c
+1132.4323 -187.0881 1134.5024 -191.0690 1133.3238 -194.8011 c
+1132.1452 -198.5333 1128.1643 -200.6034 1124.4322 -199.4249 c
+1120.7000 -198.2463 1118.6299 -194.2654 1119.8084 -190.5332 C
+s
+LB
+%AI5_EndLayer--
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 0 79 128 Lb
+(Layer 1) Ln
+0 A
+0 R
+0.0000 0.3098 0.5020 XA
+0.0000 0.3098 0.5020 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+1235.1000 -404.0151 m
+-465.6900 -404.0151 L
+-465.6900 729.8453 L
+1235.1000 729.8453 L
+1235.1000 -404.0151 L
+s
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF

@@ -1,0 +1,20 @@
+http://www.engineersedge.com/gear_formula.htm
+
+### Generate gears in Inkscape
+
+Large Gear:  
+Pressure angle: 20 (common: 14.5, 20, 25)  
+Pitch Diameter: 15" (Inkscape plugin requires inch)  
+Teeth: 180  
+
+Small Gear:  
+Pressure angle: 20 (common: 14.5, 20, 25)  
+Pitch Diameter: 1.5" (Inkscape plugin requires inch)  
+Teeth: 18 
+
+Open gears.svg in Illustrator, export as AI
+Open gears.ai in Rhino
+Had to resave each gear separately in AI for some reason
+
+Used boundingbox to find true centers, added ref circle (PD)
+Gear teeth feature many arcs, so be careful when centering!
